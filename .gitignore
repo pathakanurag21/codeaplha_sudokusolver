@@ -1,0 +1,20 @@
+# Build directories
+build/
+bin/
+obj/
+
+# Compiled executables & libraries
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+
+# VS Code settings & cache
+.vscode/
+.idea/
+*.user
+
+# vcpkg local folders
+vcpkg_installed/
